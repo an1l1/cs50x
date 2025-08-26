@@ -1,0 +1,33 @@
+# Compiled C/C++ files
+*.out
+*.o
+*.obj
+*.exe
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.env
+.venv/
+
+# SQL / databases
+*.db
+*.sqlite
+*.sqlite3
+
+# macOS / Linux / Windows system files
+.DS_Store
+Thumbs.db
+
+# IDE / Editor settings
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# Logs and temporary files
+*.log
+*.tmp
+*.swp
