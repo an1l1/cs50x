@@ -8,7 +8,7 @@ It is taught by [David J. Malan](https://cs.harvard.edu/malan/) and available fo
 ## Progress Tracker and Folder Structure ✓  
 - [x] 🢒 [Week 0 – Scratch](week0/scratch/README.md)
   - [x] Starting from Scratch
-- [ ] 🢒 [Week 1 – C](week1/README.md)
+- [x] 🢒 [Week 1 – C](week1/README.md)
   - [x] Hello, It’s Me
   - [x] Mario-Less
   - [x] Mario-More
