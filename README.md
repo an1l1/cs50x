@@ -13,7 +13,7 @@ It is taught by [David J. Malan](https://cs.harvard.edu/malan/) and available fo
   - [x] Mario-Less
   - [x] Mario-More
   - [x] Cash
-  - [ ] Credit
+  - [x] Credit
 - [ ] 🢒 Week 2 – Arrays
   - [ ] Scrabble
   - [ ] Readability
