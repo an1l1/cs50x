@@ -6,9 +6,9 @@ CS50x is the online version of Harvard University's introduction to computer sci
 It is taught by [David J. Malan](https://cs.harvard.edu/malan/) and available for free at the [CS50x official website](https://cs50.harvard.edu/x/).  
 
 ## Progress Tracker and Folder Structure ✓  
-- [x] 🢒 [Week 0 – Scratch](week0/scratch/README.md)
+- [x] 🢒 [Week 0 – Scratch](week00/scratch/README.md)
   - [x] Starting from Scratch
-- [x] 🢒 [Week 1 – C](week1/README.md)
+- [x] 🢒 [Week 1 – C](week01/README.md)
   - [x] Hello, It’s Me
   - [x] Mario-Less
   - [x] Mario-More
