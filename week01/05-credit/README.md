@@ -2,7 +2,7 @@
 
 ## Project Description  
 A program in C that prompts the user for a credit card number, checks if it's valid, and reports whether it is an American Express, MasterCard, or Visa card number.  
-It also uses the Luhn’s Algorithm to determine if the number is valid, reporting invalid if it doesn't pass.  
+It uses the Luhn’s Algorithm to determine the number's validity, reporting invalid if it doesn't pass.  
 
 ### Luhn’s Algorithm  
 The algorithm per se makes this verification:  
